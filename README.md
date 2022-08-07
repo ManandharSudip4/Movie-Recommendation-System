@@ -1,5 +1,5 @@
 # Movie-Recommendation-System
-Simple Movie Recommendation Simple using K-means clustering
+Simple Movie Recommendation System using K-means clustering
 It's just an learning stuff.
 
 ## Environment  
